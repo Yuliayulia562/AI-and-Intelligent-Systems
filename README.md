@@ -2,7 +2,7 @@
 
 My name is **Yuliya Kovalchuk**
 
-![This is me watching the world burn](https://i.imgur.com/WkqtB3g.png)]
+![This is me watching the world burn](https://i.imgur.com/WkqtB3g.png)
 
 I am affiliated with [Max Planck School of Cognition](https://cognition.maxplanckschools.org/en)
 
