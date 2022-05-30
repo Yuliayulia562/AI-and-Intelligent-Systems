@@ -21,5 +21,5 @@ My research interests concern different aspects of sexual experience, how is it 
 | Bash | <mark style="background-color:red;color:white"> Beginner</mark> | 
 
 
-Finish my first Python homework - [ ]
+
 
